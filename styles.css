@@ -1,4 +1,8 @@
 
+html {
+    scroll-behavior: smooth;
+  }
+
 .tickets {
 font-weight: 700;
 }
